@@ -74,3 +74,5 @@ The description of each file in this folder is as follows.
 19.N1A-N3U.txt:The distance statistics between N1 atoms in adenine and N3 atoms in uracil.
 
 20.C2A-O2U.txt:The distance statistics between C2 atoms in adenine and O2 atoms in uracil.
+
+21.Parameter file of base-pairing.csv:Parameter file of Gaussian density distribution of r and theta
