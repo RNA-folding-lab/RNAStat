@@ -75,4 +75,4 @@ The description of each file in this folder is as follows.
 
 20.C2A-O2U.txt:The distance statistics between C2 atoms in adenine and O2 atoms in uracil.
 
-21.Parameter file of base-pairing.csv:Parameter file of Gaussian density distribution of r and theta
+21.Parameter file of base-pairing.csv:Parameter file of Gaussian density distribution of ρ and theta
